@@ -1,6 +1,18 @@
-# ☕ Manhattan - Coffee House
+# 🌐 Berto Links
 
-Projeto de uma cafeteria fictícia chamada _Manhattan - Coffee House_. Neste projeto, o principal foco foi estudar o conceito de `position` no CSS para posicionar elementos na tela de forma precisa.
+Projeto de uma página estilo _Linktree_ chamada **Berto Links**, criada para centralizar meus principais links de forma elegante e acessível. Ideal para usar na bio de redes sociais.
+
+---
+
+## 🛠️ Como o Projeto Foi Feito
+
+Este projeto foi construído com foco em praticar minhas habilidades em HTML e CSS. A estrutura da página está dividida em três partes principais: perfil, redes sociais e lista de links.
+
+- A seção de perfil mostra minha imagem e uma breve descrição.
+- A seção de redes sociais utiliza `flexbox` para alinhar os ícones.
+- A seção de links possui estilização com `border-radius`, `box-shadow` e efeito `hover`.
+
+Também apliquei um gradiente no fundo e fontes personalizadas do Google Fonts para deixar a interface mais moderna. O rodapé foi posicionado fixamente na parte inferior da tela.
 
 ---
 
@@ -8,14 +20,17 @@ Projeto de uma cafeteria fictícia chamada _Manhattan - Coffee House_. Neste pro
 
 - HTML
 - CSS
-  - Foco no uso da propriedade `position`
-- Estruturação de layout e posicionamento de elementos
+  - Layout responsivo
+  - Uso de `flexbox`
+  - Transições e `hover`
+  - Bordas arredondadas com `border-radius`
+- Estruturação de links sociais e de portfólio
 
 ---
 
 ## 🔍 Preview do Projeto
 
-![Imagem do Projeto](assets/screencapture-127-0-0-1-5500-index-html-2025-05-14-16_30_11.png)
+![Imagem do Projeto](img/print-do-projeto.png)
 
 ---
 
